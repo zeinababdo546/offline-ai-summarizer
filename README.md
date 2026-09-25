@@ -58,3 +58,8 @@ python cli.py note.txt --remote
 | **Total Latency** | **16.78 seconds** | **9.71 seconds** |
 | **Summary Quality** | Clear & Concise (4 Key Bullet Points) | Structured Sections with Headers |
 
+<img width="1078" height="290" alt="image" src="https://github.com/user-attachments/assets/db4c2d24-1a92-42fb-8c39-a0692b0c1988" />
+<img width="938" height="298" alt="image" src="https://github.com/user-attachments/assets/59acd07b-0db0-4ed9-bd8c-7eb6be319601" />
+
+
+
